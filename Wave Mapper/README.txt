@@ -33,7 +33,7 @@ Instalación y Ejecución
 		La aplicación se instalará con todos los componentes necesarios
 Archivo MLAPP
 El archivo fuente de la aplicación se encuentra en:
-Wave Mapper\MLAPP\SYS_Proyecto_Final.mlapp
+Wave Mapper\MLAPP\Wave_Mapper.mlapp
 Guía de Uso Rápida
 	Procesamiento de Señales
 	Seleccione el menú "Señales"
